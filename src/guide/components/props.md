@@ -598,7 +598,7 @@ export default {
 
 </div>
 
-Note that if `type` is just `null` without using the array syntax, it will allow any type.
+Note that if `type` is just `null` without using the array syntax, it will allow **any** type but not only `null`.
 
 ## Boolean Casting {#boolean-casting}
 
